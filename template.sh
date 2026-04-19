@@ -9,5 +9,6 @@ touch setup.py
 touch app.py
 touch research/trial.ipynb
 touch requirements.txt
+touch README.md
 
 echo "Project structure created successfully!"
